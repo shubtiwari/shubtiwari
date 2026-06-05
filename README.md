@@ -1,12 +1,15 @@
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36" height="36" > My name is Shubham Tiwari
-===============================
+# Hey 👋 I'm Shubham Tiwari
 
-Software Developer
-------------------
+### Software Engineer | Fintech | React
 
-* 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [st.shubtiwari@gmail.com](mailto:st.shubtiwari@gmail.com)
-* 🚀  I'm currently working on [JODO](https://www.jodo.in/)
+I'm a Software Engineer based in Bengaluru, India 🇮🇳, passionate about building scalable products, solving real-world problems, and creating exceptional user experiences.
+
+Currently working at **Jodo**, where I contribute to payment collections, mandates, merchant onboarding, analytics, and customer-facing fintech products used by thousands of users.
+
+- 🚀 Building products at **Jodo**
+- 🌱 Currently learning **Flutter** and **System Design**
+- 💡 Passionate about Fintech, SaaS, AI, and Product Engineering
+- 📫 Reach me at **st.shubtiwari@gmail.com**
 
 <a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/stiwariiii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
