@@ -1,87 +1,106 @@
+<!-- Header Section -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=250&section=header&text=Hi%20there,%20I'm%20Shubham!&fontSize=50&fontAlignY=38&alt="Header Banner" />
 
-# Hi there, I'm Shubham Tiwari 👋
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Fintech+Products+at+Jodo;React+%7C+TypeScript+%7C+Node.js;Passionate+about+Developer+Tools" />
+</div>
 
-### Software Engineer | Frontend Developer | Fintech Innovator
+<div align="center">
+  <p><b>Software Engineer based in Bengaluru, India 🇮🇳</b></p>
+  <p>Passionate about building scalable products, solving real-world problems, and creating exceptional user experiences.</p>
+</div>
 
-<p align="center">
-  <a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/stiwariiii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter" /></a>
-  <a href="https://www.github.com/shubtiwari" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/shubtiwari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub" /></a>
-</p>
 
-I'm a Software Engineer based in Bengaluru, India 🇮🇳, passionate about building scalable products, solving real-world problems, and creating exceptional user experiences.
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/stiwariiii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.twitter.com/stiwariiii" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:st.shubtiwari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubtiwari&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shubtiwari?style=for-the-badge" alt="Followers" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-Currently working at **Jodo**, where I contribute to payment collections, mandates, merchant onboarding, analytics, and customer-facing fintech products used by thousands of users. 
+Currently working at **[Jodo](https://www.jodopay.com/)**, where I contribute to payment collections, mandates, merchant onboarding, analytics, and customer-facing fintech products used by thousands of users.
 
-*   🔭 **Currently building:** Robust fintech products and scalable SaaS platforms.
-*   🌱 **Currently learning:** Flutter & System Design.
-*   💡 **Interests:** Product Engineering, Fintech, SaaS architecture, and AI.
-*   📫 **Reach me at:** [st.shubtiwari@gmail.com](mailto:st.shubtiwari@gmail.com)
+- 🔭 **Currently building:** Robust fintech products and scalable SaaS platforms.
+- 🌱 **Currently learning:** Flutter & System Design.
+- 💡 **Interests:** Product Engineering, Fintech, SaaS architecture, and AI.
 
 ---
 
 ### 💻 Tech Stack
 
-**Frontend Architecture & UI**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>
+| Frontend Architecture & UI | Backend & Databases | Infrastructure & Tools |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=js" width="20" /> JavaScript <br><img src="https://skillicons.dev/icons?i=ts" width="20" /> TypeScript <br><img src="https://skillicons.dev/icons?i=react" width="20" /> React <br><img src="https://skillicons.dev/icons?i=vite" width="20" /> Vite <br><img src="https://skillicons.dev/icons?i=html" width="20" /> HTML5 & CSS3 | <img src="https://skillicons.dev/icons?i=nodejs" width="20" /> Node.js <br><img src="https://skillicons.dev/icons?i=graphql" width="20" /> GraphQL <br><img src="https://skillicons.dev/icons?i=postgres" width="20" /> PostgreSQL <br><img src="https://skillicons.dev/icons?i=mysql" width="20" /> MySQL | <img src="https://skillicons.dev/icons?i=docker" width="20" /> Docker <br><img src="https://skillicons.dev/icons?i=githubactions" width="20" /> GitHub Actions <br><img src="https://skillicons.dev/icons?i=git" width="20" /> Git <br><img src="https://skillicons.dev/icons?i=github" width="20" /> GitHub |
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubtiwari&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=shubtiwari&theme=transparent&hide_border=true" alt="Streak Stats" />
 </p>
 
-**Backend & Databases**
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
-</p>
-
-**Infrastructure & Tools**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/240/000000/docker.png" width="36" height="36" alt="Docker" title="Docker"/></a>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubtiwari&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/shubtiwari">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubtiwari&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="shubtiwari's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubtiwari&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubtiwari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/stiwariiii">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/shubtiwari">
-    <img src="https://streak-stats.demolab.com/?user=shubtiwari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="shubtiwari's Streak Stats" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/stiwariiii">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="mailto:st.shubtiwari@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Email" />
   </a>
 </p>
 
-<br>
+---
 
 <div align="center">
-  <a href="https://github.com/shubtiwari/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubtiwari&margin-w=15&theme=radical" alt="GitHub Trophies" />
-  </a>
+
+### 💡 Favorite Quote
+
+*"Build products that solve real problems. Automate the rest."*
+
 </div>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stiwariiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> &nbsp;
-  <a href="https://www.github.com/shubtiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> &nbsp;
-  <a href="https://gitlab.coko.foundation/shubtiwari" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/480/000000/gitlab.png" width="32" height="32" alt="GitLab" /></a> &nbsp;
-  <a href="https://www.stackoverflow.com/users/18018373/shubham-tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="StackOverflow" /></a> &nbsp;
-  <a href="https://www.twitter.com/stiwariiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a> &nbsp;
-  <a href="mailto:shubham.tiwari@coloredcow.in" target="_blank"><img src="https://img.icons8.com/color/480/000000/gmail-new.png" width="32" height="32" alt="Email" /></a>
-</p>
