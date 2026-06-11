@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=250&section=header&text=Hi%20there,%20I'm%20Shubham!&fontSize=50&fontAlignY=38&alt="Header Banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Fintech+Products+at+Jodo;React+%7C+TypeScript+%7C+Node.js;Passionate+about+Developer+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Fintech+Products+at+Jodo;React;Passionate+about+Developer+Tools" />
 </div>
 
 <div align="center">
